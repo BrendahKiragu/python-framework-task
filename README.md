@@ -28,8 +28,8 @@ Note: the full dataset is large. For quick exploration you can use a subset by s
 1. Clone the repo or copy files into a folder:
 
 ```bash
-git clone <your-repo-url>
-cd Frameworks_Assignment
+git clone git@github.com:BrendahKiragu/python-framework-task.git
+cd python-framework-task
 ```
 
 # USAGE INSTRUCIONS
@@ -99,3 +99,4 @@ Junior Software Developer | Data Analysis Enthusiast
 ## 📝 License
 
 This project is for educational purposes only.
+
